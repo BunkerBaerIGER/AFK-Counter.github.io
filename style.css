@@ -1,0 +1,24 @@
+#seconds {
+  font-size: 5em;}
+
+#minutes {
+  font-size: 5em;
+}
+#colon {
+  font-size: 5em;
+}
+
+.main {
+  text-align: center;
+  border: 3px solid green;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+body {
+
+  text-align: center;
+  
+  }
